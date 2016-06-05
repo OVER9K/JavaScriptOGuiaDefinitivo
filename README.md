@@ -9,3 +9,9 @@ Informações do livro:
  * Páginas: 1080
 
 Criei o repositório para o compartilhamento dos exemplos que existem no livro, somente para isso. Não irei compartilhar nada além. No início do livro dizia que estava disponível para download no site da editora, não encontrei lá e nem em outro lugar.
+
+# JavaScript - The Definitive Guide [EN]
+ * Title: JavaScript - The Definitive Guide, 6th Edition
+ * By: David Flanagan
+ * Publisher: O'Reilly
+ * Pages: 1096
